@@ -1,0 +1,31 @@
+h1{
+	text-align:;
+}
+form{
+	
+	text-align:center;
+	background:;
+	width:350px;
+	height:100px;
+	padding:40px;
+	margin:auto;
+	
+}
+legend{
+color:red;
+height:;	
+	
+}
+.but_sub{
+	border-radius:10px;
+	padding:;
+	height:30px;
+	width:80px;
+	position:relative;
+	background:white;
+	color:red;
+}
+.but_sub:hover{
+	background:blue;
+	
+}
